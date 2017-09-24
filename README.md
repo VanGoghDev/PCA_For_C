@@ -23,4 +23,5 @@ It returns an error: LNK1168
 Something very strange
 
 Contact me n email : kifirigor@gmail.com
+
 On my phone: +7(915)-001-33-20 (From Russia)
